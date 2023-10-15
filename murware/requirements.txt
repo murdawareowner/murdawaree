@@ -1,0 +1,4 @@
+requirements 
+python
+pill
+windows 9,10,11
